@@ -1,16 +1,16 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
-subtitle: Financial Economist
-email: paul.soto@upf.edu
+title: Yuwei Wan
+name: Yuwei Wan
+subtitle: Personal Website
+email: ywan10@jhu.edu
 description: >
-  Financial Economist
+  Computational Linguist
 baseurl: ""
-url: "https://pesoto.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+url: "https://yuweiwan.github.io/"
+github_username:  yuweiwan
+disqus_baseurl: "https://yuweiwan.github.io/"
+disqus_shortname: https-yuweiwan-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
@@ -25,7 +25,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Yuwei Wan"
 
 
 
@@ -40,14 +40,14 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
-    url: https://github.com/pesoto
-    desc: Fork me on GitHub
+    username: yuweiwan
+    url: https://github.com/yuweiwan
+    desc: 
     share: false
 
-  - name: LinkedIn
-    icon: linkedin
+  - name: Facebook
+    icon: Facebook
     username: Paul E. Soto
-    url: https://linkedin.com/pesoto
-    desc: Connect with me on LinkedIn
+    url: https://www.facebook.com/yuwei.wan.3
+    desc: Connect with me on Facebook
     share: true
