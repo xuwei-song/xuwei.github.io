@@ -45,9 +45,9 @@ social:
     desc: 
     share: false
 
-  - name: Facebook
-    icon: Facebook
-    username: Paul E. Soto
-    url: https://www.facebook.com/yuwei.wan.3
-    desc: Connect with me on Facebook
+  - name: Linkedin
+    icon: linkedin
+    username: Yuwei Wan
+    url: www.linkedin.com/in/yuweiwan
+    desc: Connect with me on Linkedin
     share: true
