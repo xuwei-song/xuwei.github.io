@@ -3,8 +3,8 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-- Born in Nanchang (a southern city in China) in 1996<br>
-- Grew up in Daqing (a northern city in China, close to Russia)<br>
+- Born in Nanchang (a southern city in China) in 1996.<br>
+- Grew up in Daqing (a northern city in China, close to Russia).<br>
 - Studied in CityU with a major in Linguistics and Language Applications and a minor in Computing in 2015-2019. 
 I earned a full tuition scholarship for undergraduates and was elected as the student representative of Linguistics and Translation department. 
 My grades ranked 5th in the department when I graduated from CityU.<br>
