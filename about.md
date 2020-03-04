@@ -3,12 +3,12 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-1996&nbsp&nbsp	Born in Nanchang (a southern city in China)<br>
-1998~2015	Grew up in Daqing (a northern city in China, close to Russia)<br>
-2015~2019	Studied in CityU with a major in Linguistics and Language Applications and a minor in Computing. 
+1996        Born in Nanchang (a southern city in China)<br>
+1998~2015   Grew up in Daqing (a northern city in China, close to Russia)<br>
+2015~2019   Studied in CityU with a major in Linguistics and Language Applications and a minor in Computing. 
 I earned a full tuition scholarship for undergraduates and was elected as the student representative of Linguistics and Translation department. 
 My grades ranked 5th in the department when I graduated from CityU.<br>
-2019~Now	Admitted to MSE program at Johns Hopkins University in 2019 Fall and this is my second term. 
+2019~Now    Admitted to MSE program at Johns Hopkins University in 2019 Fall and this is my second term. 
 
 <br><br>
 <strong>More information:</strong><br>
