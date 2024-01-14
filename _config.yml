@@ -1,18 +1,17 @@
 
 # Site settings
-title: Yuwei Wan
-name: Yuwei Wan
+title: Xu Wei
+name: Xu Wei
 subtitle: Personal Website
-email: ywan10@jhu.edu
+email: songwei20210114@gmail.com
 description: >
   Computational Linguist
 baseurl: ""
-url: "https://yuweiwan.github.io/"
-github_username:  yuweiwan
-disqus_baseurl: "https://yuweiwan.github.io/"
-disqus_shortname: https-yuweiwan-github-io
+url: "https://xuwei.github.io/"
+github_username:  xuwei-song
+disqus_baseurl: "https://xuwei.github.io/"
+disqus_shortname: https-xuwei-github-io
 permalink: :title
-google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
 # Build settings
 markdown: kramdown
@@ -40,14 +39,7 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: yuweiwan
-    url: https://github.com/yuweiwan
+    username: xuwei
+    url: https://github.com/xuwei-song
     desc: 
     share: false
-
-  - name: Linkedin
-    icon: linkedin
-    username: Yuwei Wan
-    url: www.linkedin.com/in/yuweiwan
-    desc: Connect with me on Linkedin
-    share: true
